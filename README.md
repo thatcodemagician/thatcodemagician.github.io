@@ -1,1 +1,1 @@
-# thatcodemagician.github.io
+# the-code-magician.github.io
